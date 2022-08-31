@@ -1,0 +1,17 @@
+/* .input {
+  background-color: rgb(60, 61, 61);
+  height: 2.5em;
+  width: 300px;
+  font-size: xx-large;
+  color: white;
+  text-align: end;
+} */
+.content {
+  width: 268px;
+  position: relative;
+  top: 0.2em;
+  background-color: rgb(86, 86, 86);
+  color: rgb(249, 249, 249);
+  font-size: 1.95em;
+  text-align: end;
+}
